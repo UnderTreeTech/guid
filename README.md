@@ -1,5 +1,5 @@
 # guid
-A distribute ID gnerator, it comes from snowflake but make some change.
+A distribute ID gnerator, it comes from snowflake but made some changes.
 
 guid comes from snowflake but made some changes<br>
 1、39bits timestamp, pump id for about 10yeas; 12bits sequences, generate 4096 sequence per Millisecond;12bits workerid, can deploy 4096 servers; highest 1bit reserve;<br>
